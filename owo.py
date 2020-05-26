@@ -1,3 +1,5 @@
+print("hewoo uwu owo")
+
 def owo(phrase):
     translation = ""
     for letter in phrase:
@@ -9,4 +11,4 @@ def owo(phrase):
             translation = translation + letter
     return translation 
 
-print(owo(input("Input a phrase: ")))
+print(owo(input("Input a phwase: ")))
